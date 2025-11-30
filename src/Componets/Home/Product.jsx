@@ -96,6 +96,7 @@ const Product = () => {
         <div className='flex justify-center mt-8'>
             <button className='border py-3 px-[74px] border-[#B88E2F] text-base font-semibold font-poppins text-[#B88E2F]'>Show More</button>
         </div>
+        <button>signup</button>
         </div>
     </section>
   )
